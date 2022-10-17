@@ -26,5 +26,5 @@
 19. Y (Tyr / Tyrosine / 티로신)
 20. V (Val / Valine / 발린) :man:
 ***
-21. (Sel / Selenocysteine / 셀레노시스테인)
-22. (Pyr / Pyrrolysine / 피롤라이신)
+21. U (Sec / Selenocysteine / 셀레노시스테인)
+22. O (Pyr / Pyrrolysine / 피롤라이신)
